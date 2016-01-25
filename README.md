@@ -1,2 +1,2 @@
 # docker-tools
-tools for doecker setups
+tools for docker setups
